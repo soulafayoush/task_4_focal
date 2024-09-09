@@ -1,0 +1,23 @@
+
+.custom-height {
+    height: 60vh; 
+    object-fit: cover; 
+  }
+  
+
+  .carousel-caption.w-80 {
+    width: 80%;
+  }
+  
+
+  .carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #fff;
+  }
+  
+  .carousel-indicators .active {
+    background-color: #000; 
+  }
+  
